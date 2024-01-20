@@ -5,6 +5,7 @@ import App from './App.vue'
 import Admin from './views/admin.vue'
 import User from './views/user.vue'
 import Login from './views/login.vue'
+import Sum from './views/sum.vue'
 import './style.css'
 
 const router = createRouter({
@@ -12,7 +13,8 @@ const router = createRouter({
     routes: [
       { path: '/', component: Login },
       { path: '/admin', component: Admin },
-      { path: '/user', component: User }
+      { path: '/user', component: User },
+      { path: '/sum', component: Sum}
     ]
   })
 

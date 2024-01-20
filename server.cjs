@@ -32,6 +32,10 @@ io.on('connection', (socket) => {
         }
     });
 
+    socket.on('getSum', () => {
+        io.emit('updateSum', sum);
+    });
+
     socket.on('disconnect', () => {
         delete users[socket.id];
         console.log('Client disconnected');
