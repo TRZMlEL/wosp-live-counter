@@ -1,8 +1,7 @@
 <template>
-  <div>
-    <h1>Login</h1>
-    <input v-model="username" placeholder="Username" />
-    <button @click="login">Login</button>
+  <div class="font-Scansky w-screen h-screen bg-bgWOSP bg-cover flex flex-col overflow-hidden items-center justify-center text-white drop-shadow-WOSPshadow2 gap-5">
+    <input v-model="username" class="bg-white border-black border-solid border-8 rounded-xl w-96 h-16 text-black p-5 text-2xl" placeholder="ID" />
+    <button @click="login" class="bg-white border-black border-solid text-black p-5 w-32 rounded-xl text-xl">Login</button>
   </div>
 </template>
 

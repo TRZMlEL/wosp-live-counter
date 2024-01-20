@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Scansky';
+    src: local('Scansky Condensed Black Italic'), local('Scansky-Condensed-Black-Italic'),
+        url('../fonts/Scansky-CondensedBlackItalic.woff2') format('woff2'),
+        url('../fonts/Scansky-CondensedBlackItalic.woff') format('woff'),
+        url('../fonts/Scansky-CondensedBlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+  }
