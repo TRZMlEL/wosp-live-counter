@@ -1,0 +1,14 @@
+User: user, Amount: 100, Time: 2024-01-20T19:56:18.276Z
+User: user, Amount: 399, Time: 2024-01-20T19:56:35.302Z
+User: user, Amount: 124, Time: 2024-01-20T19:56:38.292Z
+User: user, Amount: 23, Time: 2024-01-20T19:56:40.229Z
+User: user, Amount: 42, Time: 2024-01-20T19:56:42.281Z
+User: user, Amount: 42, Time: 2024-01-20T20:03:30.363Z
+User: user, Amount: 315, Time: 2024-01-20T20:03:35.885Z
+User: user, Amount: 315, Time: 20/1/2024 21:3:59:968
+User: user, Amount: 315, Time: 20/1/2024 21:4:1:414
+User: user, Amount: 315, Time: 20/1/2024 21:4:32:790
+User: user, Amount: 315, Time: 20/1/2024 21:4:33:575
+User: user, Amount: 65, Time: 20/1/2024 21:30:7:197
+User: user, Amount: 65, Time: 20/1/2024 21:30:10:732
+User: user, Amount: 65, Time: 20/1/2024 21:30:11:313

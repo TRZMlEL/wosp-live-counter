@@ -1,12 +1,14 @@
 <template>
-    <div>
-        <h1>{{ totalSum }}</h1>
-    </div>
-    <div>
-        <h2>Ostatnie wpłaty</h2>
-        <ul>
-            <li v-for="(payment, index) in payments" :key="index">{{ payment }}</li>
-        </ul>
+    <div class="">
+        <div>
+            <h1>{{ totalSum }}</h1>
+        </div>
+        <div>
+            <h2>Ostatnie wpłaty</h2>
+            <ul>
+                <li v-for="(payment, index) in payments" :key="index">{{ payment }}</li>
+            </ul>
+        </div>
     </div>
 </template>
 
