@@ -27,19 +27,9 @@ io.on('connection', (socket) => {
     });
 
     socket.on('transaction', (amount) => {
-        if (users[socket.id] === 'user') {
-            sum += amount;
-            io.emit('updateSum', sum);
-        }
-    });
-
-    socket.on('getSum', () => {
+        sum += amount;
         io.emit('updateSum', sum);
-    });
-
-    socket.on('transaction', (amount) => {
-        if (users[socket.id] === 'admin') {
-            let date = new Date();
+        let date = new Date();
             let formattedDate = `${date.getDate()}/${date.getMonth()+1}/${date.getFullYear()} ${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}:${date.getMilliseconds()}`;
             let transactionData = `User: ${users[socket.id]}, Amount: ${amount}, Time: ${formattedDate}\n`;
             fs.appendFile('transactions.txt', transactionData, (err) => {
@@ -49,7 +39,10 @@ io.on('connection', (socket) => {
                     io.emit('logs', data);
                 });
             });
-        }
+    });
+
+    socket.on('getSum', () => {
+        io.emit('updateSum', sum);
     });
 
     socket.on('getData', () => {

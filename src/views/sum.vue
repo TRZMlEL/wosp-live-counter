@@ -31,7 +31,7 @@
 </template>
 
 <script setup>
-import { ref, watch } from 'vue';
+import { ref } from 'vue';
 import anime from 'animejs/lib/anime.es.js';
 import io from 'socket.io-client';
 
