@@ -52,7 +52,9 @@ const add50 = () => {
 }
 
 const send = () => {
+  amount.value = parseInt(amount.value)
     socket.emit('transaction', amount.value)
+  amount.value = 0
 }
 
 </script>
