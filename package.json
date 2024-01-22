@@ -12,6 +12,7 @@
   "dependencies": {
     "@cypress/vite-dev-server": "^5.0.6",
     "@cypress/vue": "^6.0.0",
+    "animejs": "^3.2.2",
     "body-parser": "^1.20.2",
     "cookie-parser": "^1.4.6",
     "cypress": "^13.5.1",

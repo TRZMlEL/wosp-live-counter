@@ -37,6 +37,7 @@ export default {
       },
       fontFamily: {
         Scansky: ['Scansky', "sans-serif"],
+        ScanskyItalic: ['Scansky Italic', "sans-serif"],
       },
       borderWidth: {
         '12': '12px',

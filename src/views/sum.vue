@@ -12,7 +12,7 @@
                     <span class="text-1ZST2024">4</span>
                 </h4>
                 <h1 class=" leading-none text-center text-bigMain font-extrabold WOSPShadowMain" data-text="{{ totalSum }}zł" >{{ totalSum }}zł</h1>
-                <h3 class=" leading-none text-right  text-9xl font-Scansky">
+                <h3 class=" leading-none text-right tracking-tight text-9xl font-ScanskyItalic">
                     <span class="text-FINAŁ1">F</span>
                     <span class="text-FINAŁ2">I</span>
                     <span class="text-FINAŁ3">N</span>
@@ -31,7 +31,8 @@
 </template>
 
 <script setup>
-import { ref } from 'vue';
+import { ref, watch } from 'vue';
+import anime from 'animejs/lib/anime.es.js';
 import io from 'socket.io-client';
 
 const socket = io('http://localhost:4001');
@@ -55,7 +56,14 @@ socket.on('updateSum', (sum) => {
             payments.value.pop(); // Usuń najstarszą wpłatę
         }
     }
-    totalSum.value = sum; // Aktualizuj sumę wszystkich wpłat
-    console.log('Suma wszystkich wpłat: ' + totalSum.value);
+
+    // Animacja sumy wszystkich wpłat
+    anime({
+        targets: totalSum,
+        value: sum,
+        round: 1,
+        easing: 'easeInOutCubic',
+        duration: 1500
+    });
 });
 </script>

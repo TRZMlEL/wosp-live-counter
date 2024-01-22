@@ -3,13 +3,21 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: 'Scansky';
+    font-family: 'Scansky Italic';
     src: local('Scansky Condensed Black Italic'), local('Scansky-Condensed-Black-Italic'),
         url('../fonts/Scansky-CondensedBlackItalic.woff2') format('woff2'),
         url('../fonts/Scansky-CondensedBlackItalic.woff') format('woff'),
         url('../fonts/Scansky-CondensedBlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
+  }
+
+  @font-face {
+    font-family: 'Scansky';
+    src: local('Scansky Condensed Black'), local('Scansky-Condensed-Black'),
+        url('../fonts/Scansky\ Condensed\ Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
   }
 
 .WOSPShadow{
@@ -28,7 +36,7 @@
 
 
 .WOSPShadowMain {
-    -webkit-text-stroke-width: 15px;
+    -webkit-text-stroke-width: 13px;
     -webkit-text-stroke-color: black;
     text-shadow:
     -10px -10px 0 #fff,  
@@ -41,3 +49,6 @@
       10px 0px 0 #fff;
 }
 
+* {
+    user-select: none;
+}
