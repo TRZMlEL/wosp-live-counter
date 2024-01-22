@@ -10,7 +10,7 @@ export default {
         'bgWOSP': "url('/img/tlo-wosp-2024-2.png')",
       },
       dropShadow: {
-        'WOSPshadow': ['5px 0px 0px rgba(2, 3, 0)', '-5px 0px 0px rgba(2, 3, 0)', '0px 5px 0px rgba(2, 3, 0)', '0px -5px 0px rgba(2, 3, 0)',
+        'WOSPshadow': ['', '-5px 0px 0px rgba(2, 3, 0)', '0px 5px 0px rgba(2, 3, 0)', '0px -5px 0px rgba(2, 3, 0)',
                        '-2.5px -2.5px 0px rgba(2, 3, 0)',  '2.5px -2.5px 0px rgba(2, 3, 0)',   '-2.5px 2.5px 0px rgba(2, 3, 0)',  '2.5px 2.5px 0px rgba(2, 3, 0)',
                        '-3px 0px 0px #fff', '0px -3px 0px #fff', '3px 0px 0px #fff', '0px 3px 0px #fff'],
         'WOSPshadow2': ['4px 0px 0px rgba(2, 3, 0)', '-4px 0px 0px rgba(2, 3, 0)', '0px 4px 0px rgba(2, 3, 0)', '0px -4px 0px rgba(2, 3, 0)',
@@ -45,3 +45,4 @@ export default {
   },
   plugins: [],
 }
+

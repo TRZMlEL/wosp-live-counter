@@ -1,8 +1,8 @@
 <template>
     <div class="font-Scansky w-screen h-screen bg-bgWOSP bg-cover flex flex-col overflow-hidden">
-        <div class="flex w-screen h-2/3 items-center justify-center text-white flex-col">
+        <div class="WOSPShadow flex w-screen h-2/3 items-center justify-center text-white flex-col">
             <div class="flex flex-col">
-                <h4 class=" leading-none text-left drop-shadow-WOSPshadow2 text-7xl">
+                <h4 class=" leading-none text-left  text-7xl">
                     <span class="text-1ZST2024">Z</span>
                     <span class="text-2ZST2024">S</span>
                     <span class="text-1ZST2024">T </span> 
@@ -11,8 +11,8 @@
                     <span class="text-2ZST2024">2</span>
                     <span class="text-1ZST2024">4</span>
                 </h4>
-                <h1 class=" leading-none text-center text-bigMain font-extrabold drop-shadow-WOSPshadow">{{ totalSum }}zł</h1>
-                <h3 class=" leading-none text-right drop-shadow-WOSPshadow2 text-9xl font-Scansky">
+                <h1 class=" leading-none text-center text-bigMain font-extrabold WOSPShadowMain" data-text="{{ totalSum }}zł" >{{ totalSum }}zł</h1>
+                <h3 class=" leading-none text-right  text-9xl font-Scansky">
                     <span class="text-FINAŁ1">F</span>
                     <span class="text-FINAŁ2">I</span>
                     <span class="text-FINAŁ3">N</span>
@@ -21,10 +21,10 @@
                 </h3>
             </div>
         </div>
-        <div class="text-center drop-shadow-WOSPshadow2 text-white w-screen h-1/3 flex items-center justify-start flex-col text-5xl -translate-y-16">
+        <div class="text-center WOSPShadow text-white w-screen h-1/3 flex items-center justify-start flex-col text-5xl -translate-y-16">
             <h2>Ostatnie wpłaty</h2>
             <ul class="text-7xl">
-                <li v-for="(payment, index) in payments" :key="index"  class="drop-shadow-WOSPshadow2">{{ payment }}zł</li>
+                <li v-for="(payment, index) in payments" :key="index"  class="">{{ payment }}zł</li>
             </ul>
         </div>
     </div>

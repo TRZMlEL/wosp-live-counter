@@ -11,3 +11,33 @@
     font-weight: 900;
     font-style: italic;
   }
+
+.WOSPShadow{
+    text-shadow:
+    -5px -5px 0 #000,  
+     5px -5px 0 #000,
+     -5px 5px 0 #000,
+      5px 5px 0 #000,
+     0px -5px 0 #000,  
+     0px -5px 0 #000,
+     -5px 0px 0 #000,
+      5px 0px 0 #000;
+      
+}
+
+
+
+.WOSPShadowMain {
+    -webkit-text-stroke-width: 15px;
+    -webkit-text-stroke-color: black;
+    text-shadow:
+    -10px -10px 0 #fff,  
+     10px -10px 0 #fff,
+     -10px 10px 0 #fff,
+      10px 10px 0 #fff,
+     0px -10px 0 #fff,  
+     0px -10px 0 #fff,
+     -10px 0px 0 #fff,
+      10px 0px 0 #fff;
+}
+
