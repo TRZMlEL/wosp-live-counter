@@ -117,3 +117,7 @@ User: Maciej Matysiak, Amount: 50, Time: 23/1/2024 23:21:6:979
 User: admin, Amount: -50, Time: 23/1/2024 23:28:1:992
 User: admin, Amount: -100, Time: 23/1/2024 23:28:4:753
 User: admin, Amount: -150, Time: 23/1/2024 23:28:7:386
+User: Adam Niezgódka, Amount: 50, Time: 23/1/2024 23:35:30:846
+User: Adam Niezgódka, Amount: 5, Time: 23/1/2024 23:36:52:731
+User: Adam Niezgódka, Amount: 5, Time: 23/1/2024 23:36:56:466
+User: Adam Niezgódka, Amount: 90, Time: 23/1/2024 23:39:0:940
