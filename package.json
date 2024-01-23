@@ -24,6 +24,7 @@
     "socket.io-client": "^4.7.4",
     "sqlite3": "^5.1.7",
     "vue": "^3.3.8",
+    "vue-cookies": "^1.8.3",
     "vue-router": "^4.2.5"
   },
   "devDependencies": {

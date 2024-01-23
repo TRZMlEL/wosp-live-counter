@@ -25,6 +25,7 @@ io.on('connection', (socket) => {
     console.log('New client connected');
 
     socket.on('login', (username) => {
+        console.log('User logged in with username:', username);
         users[socket.id] = username;
     });
 

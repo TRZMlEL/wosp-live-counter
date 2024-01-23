@@ -105,3 +105,12 @@ User: user, Amount: 5, Time: 22/1/2024 21:40:11:161
 User: user, Amount: 10, Time: 23/1/2024 22:33:44:33
 User: user, Amount: 0, Time: 23/1/2024 22:33:49:372
 User: user, Amount: 10, Time: 23/1/2024 22:33:52:348
+User: user, Amount: 10, Time: 23/1/2024 23:1:28:564
+User: undefined, Amount: 10, Time: 23/1/2024 23:2:46:190
+User: Mateusz Trzmiel, Amount: 10, Time: 23/1/2024 23:12:33:295
+User: null, Amount: 10, Time: 23/1/2024 23:15:47:80
+User: null, Amount: 10, Time: 23/1/2024 23:16:19:380
+User: null, Amount: 20, Time: 23/1/2024 23:16:34:259
+User: Mateusz Trzmiel, Amount: 2, Time: 23/1/2024 23:20:22:931
+User: null, Amount: 20, Time: 23/1/2024 23:20:51:687
+User: Maciej Matysiak, Amount: 50, Time: 23/1/2024 23:21:6:979

@@ -18,13 +18,22 @@
 <script setup>
 import { ref } from 'vue';
 import io from 'socket.io-client';
+import { useRouter } from 'vue-router';
+import VueCookies from 'vue-cookies';
 
 const socket = io('http://192.168.109.144:4001');
 const amount = ref(0);
+const router = useRouter();
 
 socket.on('connect', () => {
-    // Zaloguj się jako użytkownik
-    socket.emit('login', 'user');
+  const username = VueCookies.get('username');
+  console.log(username) // Pobierz wartość username z plików cookie
+  if(username === null){
+    router.push({ path: '/' });
+    router.push({ name: 'Login' });
+  }else{
+    socket.emit('login', username);
+  }
 });
 
 const add1 = () => {
