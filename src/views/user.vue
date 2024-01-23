@@ -19,7 +19,7 @@
 import { ref } from 'vue';
 import io from 'socket.io-client';
 
-const socket = io('http://192.168.115.144:4001');
+const socket = io('http://192.168.109.144:4001');
 const amount = ref(0);
 
 socket.on('connect', () => {
