@@ -114,3 +114,6 @@ User: null, Amount: 20, Time: 23/1/2024 23:16:34:259
 User: Mateusz Trzmiel, Amount: 2, Time: 23/1/2024 23:20:22:931
 User: null, Amount: 20, Time: 23/1/2024 23:20:51:687
 User: Maciej Matysiak, Amount: 50, Time: 23/1/2024 23:21:6:979
+User: admin, Amount: -50, Time: 23/1/2024 23:28:1:992
+User: admin, Amount: -100, Time: 23/1/2024 23:28:4:753
+User: admin, Amount: -150, Time: 23/1/2024 23:28:7:386
