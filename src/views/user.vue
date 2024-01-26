@@ -21,7 +21,7 @@ import io from 'socket.io-client';
 import { useRouter } from 'vue-router';
 import VueCookies from 'vue-cookies';
 
-const socket = io('http://192.168.109.144:4001');
+const socket = io('http://192.168.1.193:4001');
 const amount = ref(0);
 const router = useRouter();
 

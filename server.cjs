@@ -5,6 +5,7 @@ const cors = require('cors');
 const fs = require('fs');
 const puppeteer = require('puppeteer');
 let previousResult = 0;
+let result
 
 const app = express();
 
@@ -52,6 +53,8 @@ io.on('connection', (socket) => {
         fs.readFile('transactions.txt', 'utf8', (err, data) => {
             if (err) throw err;
             io.emit('logs', data);
+            io.emit('updateSum', sum);
+            io.emit('pig', result);
         });
     });
 
@@ -59,6 +62,10 @@ io.on('connection', (socket) => {
         delete users[socket.id];
         console.log('Client disconnected');
     });
+
+    socket.on('skarbonka', () => {
+        io.emit('pig', result);
+    })
 });
 
 async function scrape() {
@@ -66,7 +73,7 @@ async function scrape() {
     const page = await browser.newPage();
     await page.goto('https://eskarbonka.wosp.org.pl/muhusajape');
 
-    let result = await page.evaluate(() => {
+    result = await page.evaluate(() => {
         return document.querySelector('div.col-md-10.mx-auto span').innerText;
     });
 
@@ -76,6 +83,7 @@ async function scrape() {
     console.log(result)
     console.log(previousResult)
     console.log("porównanie")
+    io.emit('pig', result);
 
     if (result > previousResult) {
         const difference = result - previousResult;

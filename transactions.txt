@@ -121,3 +121,422 @@ User: Adam Niezgódka, Amount: 50, Time: 23/1/2024 23:35:30:846
 User: Adam Niezgódka, Amount: 5, Time: 23/1/2024 23:36:52:731
 User: Adam Niezgódka, Amount: 5, Time: 23/1/2024 23:36:56:466
 User: Adam Niezgódka, Amount: 90, Time: 23/1/2024 23:39:0:940
+User: Mateusz Trzmiel, Amount: 11, Time: 25/1/2024 5:32:56:497
+User: Mateusz Trzmiel, Amount: 10, Time: 25/1/2024 9:4:57:309
+User: Mateusz Trzmiel, Amount: 50, Time: 25/1/2024 9:5:4:722
+User: admin, Amount: -60, Time: 25/1/2024 9:5:42:709
+User: admin, Amount: 5, Time: 25/1/2024 9:11:9:145
+User: admin, Amount: -5, Time: 25/1/2024 9:11:15:676
+User: admin, Amount: 5, Time: 25/1/2024 9:14:26:49
+User: admin, Amount: -5, Time: 25/1/2024 9:15:1:429
+User: admin, Amount: 5, Time: 25/1/2024 9:15:26:139
+User: admin, Amount: -5, Time: 25/1/2024 9:15:28:727
+User: Zofia Barańska, Amount: 1, Time: 25/1/2024 9:51:3:878
+User: Zofia Barańska, Amount: 1, Time: 25/1/2024 9:52:29:789
+User: Bartłomiej Skiba, Amount: 5, Time: 25/1/2024 9:54:26:621
+User: undefined, Amount: 1, Time: 25/1/2024 9:56:15:214
+User: Dagmara Borowczyk , Amount: 2, Time: 25/1/2024 9:58:38:623
+User: Zofia Barańska, Amount: 1, Time: 25/1/2024 9:58:39:156
+User: Bartłomiej Skiba, Amount: 1, Time: 25/1/2024 9:59:9:273
+User: Hubert Reimann, Amount: 2, Time: 25/1/2024 9:59:12:333
+User: Hubert Reimann, Amount: 1, Time: 25/1/2024 9:59:36:21
+User: Bartłomiej Skiba, Amount: 1, Time: 25/1/2024 9:59:48:638
+User: Dagmara Borowczyk , Amount: 2, Time: 25/1/2024 10:0:8:644
+User: Bartłomiej Skiba, Amount: 1, Time: 25/1/2024 10:0:24:638
+User: Bartłomiej Skiba, Amount: 1, Time: 25/1/2024 10:0:30:656
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 10:0:34:106
+User: Dagmara Borowczyk , Amount: 1, Time: 25/1/2024 10:0:41:302
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 10:0:51:501
+User: Hubert Reimann, Amount: 2, Time: 25/1/2024 10:1:5:513
+User: Zofia Barańska, Amount: 2, Time: 25/1/2024 10:1:17:316
+User: Zofia Barańska, Amount: 2, Time: 25/1/2024 10:1:27:49
+User: Zofia Barańska, Amount: 2, Time: 25/1/2024 10:1:40:483
+User: Zofia Barańska, Amount: 2, Time: 25/1/2024 10:1:51:273
+User: Zofia Barańska, Amount: 2, Time: 25/1/2024 10:2:4:731
+User: Hubert Reimann, Amount: 2, Time: 25/1/2024 10:2:26:656
+User: Nikola Szymoniak, Amount: 2, Time: 25/1/2024 10:2:28:552
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 10:2:39:488
+User: Zofia Barańska, Amount: 2, Time: 25/1/2024 10:2:43:804
+User: Nikola Szymoniak, Amount: 10, Time: 25/1/2024 10:3:0:472
+User: Bartłomiej Skiba, Amount: 20, Time: 25/1/2024 10:3:29:706
+User: Bartłomiej Skiba, Amount: 10, Time: 25/1/2024 10:3:30:572
+User: Dagmara Borowczyk , Amount: 20, Time: 25/1/2024 10:3:39:571
+User: Dagmara Borowczyk , Amount: 10, Time: 25/1/2024 10:3:40:434
+User: Nikola Szymoniak, Amount: 20, Time: 25/1/2024 10:4:1:113
+User: Nikola Szymoniak, Amount: 5, Time: 25/1/2024 10:4:2:83
+User: Nikola Szymoniak, Amount: 35, Time: 25/1/2024 10:4:49:380
+User: Zofia Barańska, Amount: 45, Time: 25/1/2024 10:5:14:107
+User: Nikola Szymoniak, Amount: 100, Time: 25/1/2024 10:5:24:22
+User: Hubert Reimann, Amount: 100, Time: 25/1/2024 10:5:48:748
+User: Nikola Szymoniak, Amount: 120, Time: 25/1/2024 10:6:21:259
+User: Dagmara Borowczyk , Amount: 50, Time: 25/1/2024 10:7:50:315
+User: Dagmara Borowczyk , Amount: 50, Time: 25/1/2024 10:7:51:469
+User: Dagmara Borowczyk , Amount: 50, Time: 25/1/2024 10:7:52:607
+User: Dagmara Borowczyk , Amount: 20, Time: 25/1/2024 10:7:53:665
+User: Nikola Szymoniak, Amount: 200, Time: 25/1/2024 10:9:19:874
+User: Dagmara Borowczyk , Amount: 50, Time: 25/1/2024 10:10:23:981
+User: Dagmara Borowczyk , Amount: 50, Time: 25/1/2024 10:10:24:876
+User: Dagmara Borowczyk , Amount: 50, Time: 25/1/2024 10:10:25:678
+User: Dagmara Borowczyk , Amount: 50, Time: 25/1/2024 10:10:26:508
+User: Dagmara Borowczyk , Amount: 5, Time: 25/1/2024 10:10:27:639
+User: Nikola Szymoniak, Amount: 270, Time: 25/1/2024 10:11:50:477
+User: Zofia Barańska, Amount: 1, Time: 25/1/2024 10:12:58:191
+User: Martyna Szychowska, Amount: 1, Time: 25/1/2024 10:17:42:68
+User: Taisiia Kiprych, Amount: 1, Time: 25/1/2024 10:17:47:889
+User: Martyna Szychowska, Amount: 2, Time: 25/1/2024 10:18:5:909
+User: Martyna Szychowska, Amount: 1, Time: 25/1/2024 10:18:15:939
+User: Hubert Reimann, Amount: 1, Time: 25/1/2024 10:18:17:706
+User: Martyna Szychowska, Amount: 1, Time: 25/1/2024 10:18:21:343
+User: Martyna Szychowska, Amount: 1, Time: 25/1/2024 10:18:29:837
+User: Hubert Reimann, Amount: 1, Time: 25/1/2024 10:18:52:996
+User: Martyna Szychowska, Amount: 1, Time: 25/1/2024 10:18:56:202
+User: Hubert Reimann, Amount: 1, Time: 25/1/2024 10:19:11:207
+User: Martyna Szychowska, Amount: 2, Time: 25/1/2024 10:19:14:763
+User: Martyna Szychowska, Amount: 1, Time: 25/1/2024 10:19:18:300
+User: Martyna Szychowska, Amount: 2, Time: 25/1/2024 10:19:54:995
+User: Hubert Reimann, Amount: 2, Time: 25/1/2024 10:20:35:307
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 10:20:52:297
+User: undefined, Amount: 2, Time: 25/1/2024 10:20:55:128
+User: Hubert Reimann, Amount: 2, Time: 25/1/2024 10:21:1:6
+User: Hubert Reimann, Amount: 10, Time: 25/1/2024 10:21:27:560
+User: Hubert Reimann, Amount: 11, Time: 25/1/2024 10:21:59:143
+User: Martyna Szychowska, Amount: 20, Time: 25/1/2024 10:22:15:154
+User: Nikola Szymoniak, Amount: 22, Time: 25/1/2024 10:22:56:854
+User: Zofia Barańska, Amount: 50, Time: 25/1/2024 10:23:51:264
+User: Martyna Szychowska, Amount: 50, Time: 25/1/2024 10:23:57:494
+User: Martyna Szychowska, Amount: 20, Time: 25/1/2024 10:23:58:501
+User: Hubert Reimann, Amount: 100, Time: 25/1/2024 10:24:25:411
+User: Martyna Szychowska, Amount: 1, Time: 25/1/2024 10:30:10:864
+User: Hubert Reimann, Amount: 1, Time: 25/1/2024 10:30:16:689
+User: Martyna Szychowska, Amount: 1, Time: 25/1/2024 10:30:32:197
+User: Martyna Szychowska, Amount: 2, Time: 25/1/2024 10:30:58:966
+User: Martyna Szychowska, Amount: 2, Time: 25/1/2024 10:31:16:920
+User: Martyna Szychowska, Amount: 7, Time: 25/1/2024 10:32:4:746
+User: Martyna Szychowska, Amount: 8, Time: 25/1/2024 10:32:17:375
+User: Martyna Szychowska, Amount: 10, Time: 25/1/2024 10:32:29:74
+User: Bartłomiej Skiba, Amount: 11, Time: 25/1/2024 10:32:42:933
+User: Hubert Reimann, Amount: 10, Time: 25/1/2024 10:32:44:638
+User: Martyna Szychowska, Amount: 10, Time: 25/1/2024 10:33:12:415
+User: Bartłomiej Skiba, Amount: 10, Time: 25/1/2024 10:33:21:169
+User: Martyna Szychowska, Amount: 20, Time: 25/1/2024 10:33:39:222
+User: Hubert Reimann, Amount: 20, Time: 25/1/2024 10:34:8:42
+User: Dagmara Borowczyk , Amount: 20, Time: 25/1/2024 10:34:46:500
+User: Hubert Reimann, Amount: 30, Time: 25/1/2024 10:35:15:62
+User: Dagmara Borowczyk , Amount: 1, Time: 25/1/2024 10:37:52:873
+User: Taisiia Kiprych, Amount: 1, Time: 25/1/2024 10:37:56:599
+User: Dagmara Borowczyk , Amount: 1, Time: 25/1/2024 10:39:17:865
+User: Dagmara Borowczyk , Amount: 2, Time: 25/1/2024 10:39:57:930
+User: Martyna Szychowska, Amount: 5, Time: 25/1/2024 10:40:22:942
+User: Dagmara Borowczyk , Amount: 10, Time: 25/1/2024 10:40:26:454
+User: Bartłomiej Skiba, Amount: 10, Time: 25/1/2024 10:40:58:394
+User: Hubert Reimann, Amount: 15, Time: 25/1/2024 10:41:31:585
+User: Dagmara Borowczyk , Amount: 20, Time: 25/1/2024 10:41:39:496
+User: Bartłomiej Skiba, Amount: 20, Time: 25/1/2024 10:41:52:776
+User: Bartłomiej Skiba, Amount: 20, Time: 25/1/2024 10:42:46:853
+User: Hubert Reimann, Amount: 1, Time: 25/1/2024 10:44:4:198
+User: Hubert Reimann, Amount: 1, Time: 25/1/2024 10:44:15:432
+User: Hubert Reimann, Amount: 3, Time: 25/1/2024 10:44:59:892
+User: Hubert Reimann, Amount: 5, Time: 25/1/2024 10:45:2:102
+User: Dagmara Borowczyk , Amount: 5, Time: 25/1/2024 10:45:30:177
+User: Hubert Reimann, Amount: 10, Time: 25/1/2024 10:45:32:324
+User: Hubert Reimann, Amount: 15, Time: 25/1/2024 10:45:55:565
+User: Dagmara Borowczyk , Amount: 20, Time: 25/1/2024 10:46:22:393
+User: Hubert Reimann, Amount: 21, Time: 25/1/2024 10:46:45:246
+User: Nikola Szymoniak, Amount: 50, Time: 25/1/2024 10:47:21:877
+User: Hubert Reimann, Amount: 55, Time: 25/1/2024 10:47:54:179
+User: Nikola Szymoniak, Amount: 1, Time: 25/1/2024 10:50:58:259
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 10:51:1:141
+User: Dagmara Borowczyk , Amount: 1, Time: 25/1/2024 10:51:4:740
+User: Hubert Reimann, Amount: 1, Time: 25/1/2024 10:51:11:919
+User: Taisiia Kiprych, Amount: 2, Time: 25/1/2024 10:51:16:523
+User: Dagmara Borowczyk , Amount: 2, Time: 25/1/2024 10:51:52:233
+User: undefined, Amount: 5, Time: 25/1/2024 10:51:52:474
+User: Taisiia Kiprych, Amount: 20, Time: 25/1/2024 10:52:11:210
+User: Hubert Reimann, Amount: 50, Time: 25/1/2024 10:52:14:890
+User: Hubert Reimann, Amount: 100, Time: 25/1/2024 10:52:38:618
+User: Dagmara Borowczyk , Amount: 230, Time: 25/1/2024 10:54:3:837
+User: Bartłomiej Skiba, Amount: 760, Time: 25/1/2024 10:54:43:13
+User: Dagmara Borowczyk , Amount: 1, Time: 25/1/2024 10:57:4:718
+User: Taisiia Kiprych, Amount: 1, Time: 25/1/2024 10:57:47:68
+User: Dagmara Borowczyk , Amount: 1, Time: 25/1/2024 10:57:57:736
+User: Hubert Reimann, Amount: 2, Time: 25/1/2024 10:58:17:312
+User: Dagmara Borowczyk , Amount: 2, Time: 25/1/2024 10:58:42:433
+User: Hubert Reimann, Amount: 3, Time: 25/1/2024 10:58:58:775
+User: Taisiia Kiprych, Amount: 5, Time: 25/1/2024 10:59:17:147
+User: Hubert Reimann, Amount: 10, Time: 25/1/2024 10:59:55:415
+User: Hubert Reimann, Amount: 10, Time: 25/1/2024 11:0:3:323
+User: Nikola Szymoniak, Amount: 20, Time: 25/1/2024 11:0:25:675
+User: Nikola Szymoniak, Amount: 20, Time: 25/1/2024 11:0:51:246
+User: Nikola Szymoniak, Amount: 20, Time: 25/1/2024 11:1:17:885
+User: Nikola Szymoniak, Amount: 20, Time: 25/1/2024 11:1:38:319
+User: Nikola Szymoniak, Amount: 4, Time: 25/1/2024 11:1:43:363
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 11:6:40:930
+User: Dagmara Borowczyk , Amount: 1, Time: 25/1/2024 11:6:56:85
+User: Bartłomiej Skiba, Amount: 1, Time: 25/1/2024 11:6:57:870
+User: Hubert Reimann, Amount: 5, Time: 25/1/2024 11:7:19:831
+User: Hubert Reimann, Amount: 2, Time: 25/1/2024 11:7:23:405
+User: Hubert Reimann, Amount: 3, Time: 25/1/2024 11:7:29:564
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 11:7:30:899
+User: Bartłomiej Skiba, Amount: 4, Time: 25/1/2024 11:7:53:990
+User: Hubert Reimann, Amount: 10, Time: 25/1/2024 11:7:58:202
+User: Hubert Reimann, Amount: 20, Time: 25/1/2024 11:8:21:963
+User: Bartłomiej Skiba, Amount: 12, Time: 25/1/2024 11:8:35:759
+User: Zofia Barańska, Amount: 200, Time: 25/1/2024 11:9:28:902
+User: Hubert Reimann, Amount: 1, Time: 25/1/2024 11:12:15:680
+User: Taisiia Kiprych, Amount: 1, Time: 25/1/2024 11:12:24:461
+User: Hubert Reimann, Amount: 2, Time: 25/1/2024 11:13:15:895
+User: Hubert Reimann, Amount: 10, Time: 25/1/2024 11:13:38:131
+User: Zofia Barańska, Amount: 10, Time: 25/1/2024 11:13:54:897
+User: Dagmara Borowczyk , Amount: 50, Time: 25/1/2024 11:14:4:853
+User: Bartłomiej Skiba, Amount: 1, Time: 25/1/2024 11:15:56:105
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 11:17:2:784
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 11:17:19:292
+User: undefined, Amount: 6, Time: 25/1/2024 11:17:29:366
+User: Bartłomiej Skiba, Amount: 7, Time: 25/1/2024 11:17:41:276
+User: Hubert Reimann, Amount: 10, Time: 25/1/2024 11:17:43:880
+User: Bartłomiej Skiba, Amount: 11, Time: 25/1/2024 11:17:56:95
+User: Hubert Reimann, Amount: 20, Time: 25/1/2024 11:18:33:624
+User: Hubert Reimann, Amount: 50, Time: 25/1/2024 11:18:46:652
+User: Hubert Reimann, Amount: 51, Time: 25/1/2024 11:19:6:265
+User: Hubert Reimann, Amount: 60, Time: 25/1/2024 11:19:29:839
+User: Dagmara Borowczyk , Amount: 65, Time: 25/1/2024 11:19:50:193
+User: Hubert Reimann, Amount: 70, Time: 25/1/2024 11:20:2:411
+User: Dagmara Borowczyk , Amount: 5, Time: 25/1/2024 11:25:16:122
+User: Zofia Barańska, Amount: 30, Time: 25/1/2024 11:26:2:759
+User: Dagmara Borowczyk , Amount: 100, Time: 25/1/2024 11:26:29:44
+User: Nikola Szymoniak, Amount: 20, Time: 25/1/2024 11:27:20:590
+User: Zofia Barańska, Amount: 330, Time: 25/1/2024 11:27:28:322
+User: Hubert Reimann, Amount: -10, Time: 25/1/2024 11:30:1:97
+User: Hubert Reimann, Amount: 10, Time: 25/1/2024 11:30:5:368
+User: Nikola Szymoniak, Amount: 2, Time: 25/1/2024 11:32:23:428
+User: Dagmara Borowczyk , Amount: 10, Time: 25/1/2024 11:34:7:493
+User: undefined, Amount: 50, Time: 25/1/2024 11:42:31:24
+User: admin, Amount: 1, Time: 25/1/2024 12:0:4:237
+User: admin, Amount: -1, Time: 25/1/2024 12:0:7:864
+User: Laura Krawczyk , Amount: 2, Time: 25/1/2024 12:37:30:81
+User: Laura Krawczyk , Amount: 2, Time: 25/1/2024 12:37:31:559
+User: Dagmara Borowczyk , Amount: 2, Time: 25/1/2024 12:39:58:426
+User: Dagmara Borowczyk , Amount: 10, Time: 25/1/2024 12:42:44:867
+User: Laura Krawczyk , Amount: 1, Time: 25/1/2024 12:43:9:874
+User: Laura Krawczyk , Amount: 1, Time: 25/1/2024 12:43:10:979
+User: Laura Krawczyk , Amount: 1, Time: 25/1/2024 12:44:9:110
+User: undefined, Amount: 1, Time: 25/1/2024 12:44:21:434
+User: Laura Krawczyk , Amount: 1, Time: 25/1/2024 12:44:31:453
+User: Kamil Mikołajczyk , Amount: 1, Time: 25/1/2024 12:45:17:486
+User: Kamil Mikołajczyk , Amount: 1, Time: 25/1/2024 12:45:39:609
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 12:47:54:623
+User: Dagmara Borowczyk , Amount: 100, Time: 25/1/2024 12:48:3:697
+User: Laura Krawczyk , Amount: 150, Time: 25/1/2024 12:49:12:422
+User: Laura Krawczyk , Amount: 1, Time: 25/1/2024 12:52:22:321
+User: Nikola Szymoniak, Amount: 2, Time: 25/1/2024 12:52:35:164
+User: undefined, Amount: 1, Time: 25/1/2024 12:52:38:595
+User: Laura Krawczyk , Amount: 11, Time: 25/1/2024 12:53:7:502
+User: Dagmara Borowczyk , Amount: 55, Time: 25/1/2024 12:53:25:512
+User: undefined, Amount: 50, Time: 25/1/2024 12:53:44:726
+User: Dagmara Borowczyk , Amount: 100, Time: 25/1/2024 12:54:0:574
+User: Bartłomiej Skiba, Amount: 1, Time: 25/1/2024 12:55:8:108
+User: Gabriela Minta, Amount: 5, Time: 25/1/2024 12:55:12:613
+User: Bartłomiej Skiba, Amount: 10, Time: 25/1/2024 12:56:11:572
+User: undefined, Amount: 20, Time: 25/1/2024 12:57:27:932
+User: Nikola Szymoniak, Amount: 1, Time: 25/1/2024 12:58:38:132
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 12:58:55:832
+User: Nikola Szymoniak, Amount: 15, Time: 25/1/2024 12:59:29:490
+User: Bartłomiej Skiba, Amount: 10, Time: 25/1/2024 12:59:37:306
+User: Nikola Szymoniak, Amount: 20, Time: 25/1/2024 12:59:55:873
+User: Nikola Szymoniak, Amount: 25, Time: 25/1/2024 13:0:13:369
+User: undefined, Amount: 12, Time: 25/1/2024 13:0:52:467
+User: Laura Krawczyk , Amount: 30, Time: 25/1/2024 13:0:56:125
+User: Nikola Szymoniak, Amount: 35, Time: 25/1/2024 13:1:2:270
+User: Kamil Mikołajczyk , Amount: 1, Time: 25/1/2024 13:1:6:693
+User: Antoni Ciesielski , Amount: 2, Time: 25/1/2024 13:1:38:52
+User: Bartek Zmyślony , Amount: 2, Time: 25/1/2024 13:1:41:320
+User: Kamil Mikołajczyk , Amount: 2, Time: 25/1/2024 13:3:20:24
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 13:3:20:35
+User: Kacper Musiał, Amount: 5, Time: 25/1/2024 13:4:18:798
+User: Dagmara Borowczyk , Amount: 10, Time: 25/1/2024 13:4:30:93
+User: undefined, Amount: 2, Time: 25/1/2024 13:4:30:166
+User: Dagmara Borowczyk , Amount: 4, Time: 25/1/2024 13:4:57:524
+User: Laura Krawczyk , Amount: 12, Time: 25/1/2024 13:5:1:23
+User: Nikola Szymoniak, Amount: 20, Time: 25/1/2024 13:5:28:206
+User: Dagmara Borowczyk , Amount: 21, Time: 25/1/2024 13:5:44:60
+User: Kamil Mikołajczyk , Amount: 30, Time: 25/1/2024 13:6:28:398
+User: Bartłomiej Skiba, Amount: 25, Time: 25/1/2024 13:6:36:428
+User: Kamil Mikołajczyk , Amount: 1, Time: 25/1/2024 13:11:28:125
+User: Kamil Mikołajczyk , Amount: 1, Time: 25/1/2024 13:13:23:261
+User: Kacper Musiał, Amount: 2, Time: 25/1/2024 13:13:39:647
+User: Kacper Musiał, Amount: 10, Time: 25/1/2024 13:14:26:621
+User: Gabriela Minta, Amount: 10, Time: 25/1/2024 13:14:35:473
+User: Bartek Zmyślony , Amount: 50, Time: 25/1/2024 13:14:54:537
+User: Antoni Ciesielski , Amount: 1, Time: 25/1/2024 13:17:57:129
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 13:18:18:347
+User: Bartek Zmyślony , Amount: 2, Time: 25/1/2024 13:18:30:199
+User: Kacper Musiał, Amount: 5, Time: 25/1/2024 13:18:31:512
+User: Kacper Musiał, Amount: 30, Time: 25/1/2024 13:18:51:778
+User: Kacper Musiał, Amount: 34, Time: 25/1/2024 13:20:43:242
+User: Bartek Zmyślony , Amount: 40, Time: 25/1/2024 13:20:51:56
+User: Kacper Musiał, Amount: 16, Time: 25/1/2024 13:21:30:270
+User: Bartek Zmyślony , Amount: 55, Time: 25/1/2024 13:21:53:718
+User: Kacper Musiał, Amount: 60, Time: 25/1/2024 13:22:22:338
+User: Antoni Ciesielski , Amount: 70, Time: 25/1/2024 13:22:39:311
+User: Laura Krawczyk , Amount: 100, Time: 25/1/2024 13:23:11:175
+User: Kacper Musiał, Amount: 2, Time: 25/1/2024 13:25:17:756
+User: Bartek Zmyślony , Amount: 3, Time: 25/1/2024 13:25:45:878
+User: Dagmara Borowczyk , Amount: 5, Time: 25/1/2024 13:25:52:680
+User: Laura Krawczyk , Amount: 20, Time: 25/1/2024 13:26:2:563
+User: Dagmara Borowczyk , Amount: 20, Time: 25/1/2024 13:26:32:493
+User: Bartek Zmyślony , Amount: 20, Time: 25/1/2024 13:26:44:360
+User: Dagmara Borowczyk , Amount: 30, Time: 25/1/2024 13:27:5:636
+User: Nikola Szymoniak, Amount: 50, Time: 25/1/2024 13:27:22:111
+User: Kamil Mikołajczyk , Amount: 50, Time: 25/1/2024 13:27:54:551
+User: Nikola Szymoniak, Amount: 200, Time: 25/1/2024 13:28:26:817
+User: Zofia Barańska, Amount: 100, Time: 25/1/2024 13:28:31:33
+User: Bartłomiej Skiba, Amount: 1, Time: 25/1/2024 13:31:0:45
+User: Bartek Zmyślony , Amount: 1, Time: 25/1/2024 13:31:10:408
+User: Kacper Musiał, Amount: 2, Time: 25/1/2024 13:31:14:209
+User: Zofia Barańska, Amount: 2, Time: 25/1/2024 13:31:24:247
+User: Gabriela Minta, Amount: 5, Time: 25/1/2024 13:31:30:168
+User: Antoni Ciesielski , Amount: 6, Time: 25/1/2024 13:31:56:885
+User: Dagmara Borowczyk , Amount: 10, Time: 25/1/2024 13:32:7:804
+User: Bartłomiej Skiba, Amount: 5, Time: 25/1/2024 13:32:11:247
+User: Kacper Musiał, Amount: 10, Time: 25/1/2024 13:32:18:608
+User: Dagmara Borowczyk , Amount: 50, Time: 25/1/2024 13:32:23:498
+User: Zofia Barańska, Amount: 200, Time: 25/1/2024 13:32:55:264
+User: Kacper Musiał, Amount: 1, Time: 25/1/2024 13:35:1:984
+User: Bartłomiej Skiba, Amount: 1, Time: 25/1/2024 13:35:26:237
+User: Dagmara Borowczyk , Amount: 2, Time: 25/1/2024 13:35:47:413
+User: Zofia Barańska, Amount: 1, Time: 25/1/2024 13:35:48:277
+User: Bartek Zmyślony , Amount: 5, Time: 25/1/2024 13:36:11:197
+User: Nikola Szymoniak, Amount: 6, Time: 25/1/2024 13:36:19:145
+User: Kacper Musiał, Amount: 10, Time: 25/1/2024 13:36:46:453
+User: Antoni Ciesielski , Amount: 11, Time: 25/1/2024 13:37:11:626
+User: Kamil Mikołajczyk , Amount: 20, Time: 25/1/2024 13:37:30:778
+User: Gabriela Minta, Amount: 1, Time: 25/1/2024 13:47:40:934
+User: Bartłomiej Skiba, Amount: 2, Time: 25/1/2024 13:48:3:768
+User: Dagmara Borowczyk , Amount: 6, Time: 25/1/2024 13:48:4:918
+User: Laura Krawczyk , Amount: 10, Time: 25/1/2024 13:48:32:711
+User: Nikola Szymoniak, Amount: 10, Time: 25/1/2024 13:48:38:590
+User: Laura Krawczyk , Amount: 50, Time: 25/1/2024 13:49:4:947
+User: undefined, Amount: 60, Time: 25/1/2024 13:50:31:811
+User: Antoni Ciesielski , Amount: 60, Time: 25/1/2024 13:50:32:854
+User: Kamil Mikołajczyk , Amount: 1, Time: 25/1/2024 13:51:33:728
+User: Zofia Barańska, Amount: 2, Time: 25/1/2024 13:52:8:600
+User: Dagmara Borowczyk , Amount: 3, Time: 25/1/2024 13:52:29:170
+User: Gabriela Minta, Amount: 10, Time: 25/1/2024 13:52:32:209
+User: admin, Amount: -60, Time: 25/1/2024 13:52:55:404
+User: Laura Krawczyk , Amount: 20, Time: 25/1/2024 13:53:18:948
+User: Gabriela Minta, Amount: 1, Time: 25/1/2024 13:54:21:378
+User: Dagmara Borowczyk , Amount: 2, Time: 25/1/2024 13:54:35:656
+User: Laura Krawczyk , Amount: 10, Time: 25/1/2024 13:54:40:522
+User: Gabriela Minta, Amount: 15, Time: 25/1/2024 13:54:55:792
+User: Bartek Zmyślony , Amount: 15, Time: 25/1/2024 13:55:24:563
+User: Gabriela Minta, Amount: 15, Time: 25/1/2024 13:55:36:779
+User: Hubert Banachowicz , Amount: 25, Time: 25/1/2024 13:55:51:796
+User: Kacper Musiał, Amount: 15, Time: 25/1/2024 13:56:0:353
+User: Gabriela Minta, Amount: 30, Time: 25/1/2024 13:56:22:738
+User: Laura Krawczyk , Amount: 1, Time: 25/1/2024 13:58:34:899
+User: Laura Krawczyk , Amount: 1, Time: 25/1/2024 13:58:43:831
+User: Laura Krawczyk , Amount: 2, Time: 25/1/2024 13:58:45:129
+User: Gabriela Minta, Amount: 6, Time: 25/1/2024 13:58:47:866
+User: Laura Krawczyk , Amount: 10, Time: 25/1/2024 13:58:59:570
+User: Bartłomiej Skiba, Amount: 5, Time: 25/1/2024 13:59:0:362
+User: Kamil Mikołajczyk , Amount: 20, Time: 25/1/2024 13:59:23:650
+User: Laura Krawczyk , Amount: 50, Time: 25/1/2024 13:59:29:420
+User: Laura Krawczyk , Amount: 50, Time: 25/1/2024 13:59:53:506
+User: Laura Krawczyk , Amount: 52, Time: 25/1/2024 14:0:21:995
+User: Laura Krawczyk , Amount: 55, Time: 25/1/2024 14:0:36:948
+User: Laura Krawczyk , Amount: 2, Time: 25/1/2024 14:1:59:821
+User: Kamil Mikołajczyk , Amount: 5, Time: 25/1/2024 14:2:6:568
+User: Laura Krawczyk , Amount: 5, Time: 25/1/2024 14:2:41:782
+User: Kacper Musiał, Amount: 100, Time: 25/1/2024 14:2:55:606
+User: Antoni Ciesielski , Amount: 6, Time: 25/1/2024 14:2:56:702
+User: Dagmara Borowczyk , Amount: 100, Time: 25/1/2024 14:3:19:482
+User: Bartek Zmyślony , Amount: 100, Time: 25/1/2024 14:3:45:692
+User: Dagmara Borowczyk , Amount: 120, Time: 25/1/2024 14:4:3:585
+User: Kacper Musiał, Amount: 150, Time: 25/1/2024 14:4:33:87
+User: Dagmara Borowczyk , Amount: 20, Time: 25/1/2024 14:6:41:838
+User: Kamil Mikołajczyk , Amount: 1, Time: 25/1/2024 14:7:26:382
+User: Antoni Ciesielski , Amount: 30, Time: 25/1/2024 14:8:35:667
+User: Dagmara Borowczyk , Amount: 10, Time: 25/1/2024 14:9:58:553
+User: Dagmara Borowczyk , Amount: 20, Time: 25/1/2024 14:10:24:679
+User: Gabriela Minta, Amount: 50, Time: 25/1/2024 14:10:25:395
+User: Laura Krawczyk , Amount: 51, Time: 25/1/2024 14:10:41:627
+User: Laura Krawczyk , Amount: 60, Time: 25/1/2024 14:11:10:971
+User: Dagmara Borowczyk , Amount: 40, Time: 25/1/2024 14:12:4:31
+User: Dagmara Borowczyk , Amount: 62, Time: 25/1/2024 14:12:33:816
+User: Laura Krawczyk , Amount: 71, Time: 25/1/2024 14:12:46:124
+User: Kacper Musiał, Amount: 200, Time: 25/1/2024 14:12:56:54
+User: Laura Krawczyk , Amount: 4, Time: 25/1/2024 14:14:28:201
+User: Laura Krawczyk , Amount: 7, Time: 25/1/2024 14:14:47:833
+User: Antoni Ciesielski , Amount: 10, Time: 25/1/2024 14:15:4:483
+User: Antoni Ciesielski , Amount: 30, Time: 25/1/2024 14:15:25:697
+User: Kamil Mikołajczyk , Amount: 50, Time: 25/1/2024 14:15:46:117
+User: Kacper Musiał, Amount: 60, Time: 25/1/2024 14:16:14:929
+User: Bartłomiej Skiba, Amount: 50, Time: 25/1/2024 14:16:46:271
+User: Zofia Barańska, Amount: 10, Time: 25/1/2024 14:18:26:190
+User: undefined, Amount: 100, Time: 25/1/2024 14:18:34:886
+User: Zofia Barańska, Amount: 1, Time: 25/1/2024 14:23:4:817
+User: Antoni Ciesielski , Amount: 2, Time: 25/1/2024 14:23:11:312
+User: Zofia Barańska, Amount: 5, Time: 25/1/2024 14:23:30:281
+User: Antoni Ciesielski , Amount: 5, Time: 25/1/2024 14:23:47:658
+User: Zofia Barańska, Amount: 8, Time: 25/1/2024 14:23:53:855
+User: Antoni Ciesielski , Amount: 20, Time: 25/1/2024 14:24:12:974
+User: Bartłomiej Skiba, Amount: 20, Time: 25/1/2024 14:24:47:109
+User: Laura Krawczyk , Amount: 56, Time: 25/1/2024 14:25:6:843
+User: Kacper Musiał, Amount: 1, Time: 25/1/2024 14:26:26:450
+User: Kacper Musiał, Amount: 2, Time: 25/1/2024 14:26:45:55
+User: Laura Krawczyk , Amount: 2, Time: 25/1/2024 14:26:58:870
+User: Laura Krawczyk , Amount: 3, Time: 25/1/2024 14:27:2:463
+User: Hubert Banachowicz , Amount: 5, Time: 25/1/2024 14:27:11:298
+User: Laura Krawczyk , Amount: 10, Time: 25/1/2024 14:27:32:428
+User: Hubert Banachowicz , Amount: 20, Time: 25/1/2024 14:27:47:295
+User: Kacper Musiał, Amount: 100, Time: 25/1/2024 14:27:51:536
+User: Hubert Banachowicz , Amount: 100, Time: 25/1/2024 14:28:8:456
+User: Nikola Szymoniak, Amount: 3, Time: 25/1/2024 14:29:5:751
+User: Gabriela Minta, Amount: 1, Time: 25/1/2024 14:29:40:124
+User: Bartek Zmyślony , Amount: 2, Time: 25/1/2024 14:30:11:190
+User: Bartek Zmyślony , Amount: 20, Time: 25/1/2024 14:30:37:391
+User: Antoni Ciesielski , Amount: 20, Time: 25/1/2024 14:30:38:284
+User: Dagmara Borowczyk , Amount: 10, Time: 25/1/2024 14:30:40:1
+User: Dagmara Borowczyk , Amount: 30, Time: 25/1/2024 14:30:51:375
+User: Bartek Zmyślony , Amount: 50, Time: 25/1/2024 14:31:29:318
+User: Bartłomiej Skiba, Amount: 1, Time: 25/1/2024 14:33:10:588
+User: Kacper Musiał, Amount: 2, Time: 25/1/2024 14:33:11:383
+User: Bartek Zmyślony , Amount: 2, Time: 25/1/2024 14:33:15:839
+User: Bartek Zmyślony , Amount: 3, Time: 25/1/2024 14:33:39:489
+User: Kacper Musiał, Amount: 10, Time: 25/1/2024 14:34:11:945
+User: Kacper Musiał, Amount: 20, Time: 25/1/2024 14:34:20:378
+User: Kacper Musiał, Amount: 25, Time: 25/1/2024 14:34:53:723
+User: Bartek Zmyślony , Amount: 40, Time: 25/1/2024 14:41:32:494
+User: Bartłomiej Skiba, Amount: 5, Time: 25/1/2024 14:41:59:738
+User: Dagmara Borowczyk , Amount: 41, Time: 25/1/2024 14:42:9:498
+User: Hubert Banachowicz , Amount: 1, Time: 25/1/2024 14:43:49:210
+User: Kacper Musiał, Amount: 10, Time: 25/1/2024 14:44:0:980
+User: Gabriela Minta, Amount: 5, Time: 25/1/2024 14:44:1:74
+User: Hubert Banachowicz , Amount: 10, Time: 25/1/2024 14:44:18:272
+User: Kacper Musiał, Amount: 20, Time: 25/1/2024 14:44:31:786
+User: Gabriela Minta, Amount: 10, Time: 25/1/2024 14:44:46:712
+User: Laura Krawczyk , Amount: 20, Time: 25/1/2024 14:45:14:916
+User: Laura Krawczyk , Amount: 25, Time: 25/1/2024 14:45:30:8
+User: Laura Krawczyk , Amount: 25, Time: 25/1/2024 14:46:17:657
+User: Bartek Zmyślony , Amount: 1, Time: 25/1/2024 14:47:49:198
+User: Nikola Szymoniak, Amount: 2, Time: 25/1/2024 14:48:17:641
+User: Bartek Zmyślony , Amount: 2, Time: 25/1/2024 14:48:26:695
+User: Laura Krawczyk , Amount: 20, Time: 25/1/2024 14:48:52:527
+User: Nikola Szymoniak, Amount: 1, Time: 25/1/2024 14:49:50:225
+User: Laura Krawczyk , Amount: 1, Time: 25/1/2024 14:50:53:894
+User: Kacper Musiał, Amount: 2, Time: 25/1/2024 14:51:16:810
+User: Dagmara Borowczyk , Amount: 5, Time: 25/1/2024 14:51:22:23
+User: Bartek Zmyślony , Amount: 30, Time: 25/1/2024 14:51:36:826
+User: Hubert Banachowicz , Amount: 90, Time: 25/1/2024 14:52:2:265
+User: Kacper Musiał, Amount: 1, Time: 25/1/2024 14:52:52:975
+User: Nikola Szymoniak, Amount: 1, Time: 25/1/2024 14:53:32:455
+User: Gabriela Minta, Amount: 10, Time: 25/1/2024 14:53:49:919
+User: Gabriela Minta, Amount: 10, Time: 25/1/2024 14:54:16:552
+User: Gabriela Minta, Amount: 10, Time: 25/1/2024 14:54:28:255
+User: Gabriela Minta, Amount: 15, Time: 25/1/2024 14:54:58:143
+User: Gabriela Minta, Amount: 20, Time: 25/1/2024 14:55:16:629
+User: Gabriela Minta, Amount: 20, Time: 25/1/2024 14:55:30:314
+User: Hubert Banachowicz , Amount: 30, Time: 25/1/2024 14:55:58:815
+User: Kacper Musiał, Amount: 40, Time: 25/1/2024 14:56:11:880
+User: Gabriela Minta, Amount: 50, Time: 25/1/2024 14:57:5:982
+User: admin, Amount: 1660, Time: 25/1/2024 14:59:41:731

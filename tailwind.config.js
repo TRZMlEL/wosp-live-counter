@@ -33,7 +33,9 @@ export default {
         'FINAŁ4': '#EDB411',
         'FINAŁ5': '#F9F00B',
         '1ZST2024': '#1397D4',
-        '2ZST2024': '#BCE1F5'
+        '2ZST2024': '#BCE1F5',
+        'skarbonka': '#fff4cf',
+        'skarbonka2': '#ff671b', 
       },
       fontFamily: {
         Scansky: ['Scansky', "sans-serif"],

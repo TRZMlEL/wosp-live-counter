@@ -35,7 +35,7 @@ import { ref } from 'vue';
 import anime from 'animejs/lib/anime.es.js';
 import io from 'socket.io-client';
 
-const socket = io('http://192.168.109.144:4001');
+const socket = io('http://192.168.1.193:4001');
 const totalSum = ref(0); // Utwórz reaktywne dane dla sumy wszystkich wpłat
 const payments = ref([]); // Utwórz listę wpłat
 
