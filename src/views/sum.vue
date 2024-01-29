@@ -34,8 +34,13 @@
 import { ref } from 'vue';
 import anime from 'animejs/lib/anime.es.js';
 import io from 'socket.io-client';
+import VueCookies from 'vue-cookies';
 
-const socket = io('http://192.168.1.193:4001');
+const ip = VueCookies.get('ip');
+console.log(ip)
+
+const socket = io('http://'+ip+':4001');
+
 const totalSum = ref(0); // Utwórz reaktywne dane dla sumy wszystkich wpłat
 const payments = ref([]); // Utwórz listę wpłat
 

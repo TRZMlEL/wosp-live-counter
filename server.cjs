@@ -4,6 +4,8 @@ const socketIo = require('socket.io');
 const cors = require('cors');
 const fs = require('fs');
 const puppeteer = require('puppeteer');
+const ip = require("ip");
+
 let previousResult = 0;
 let result
 
@@ -100,4 +102,4 @@ setInterval(scrape, 5 * 60 * 1000);
 
 scrape();
 
-server.listen(4001, () => console.log('Listening on port 4001'));
+server.listen(4001, () => console.log('Listening on '+ip.address()+':4001'));

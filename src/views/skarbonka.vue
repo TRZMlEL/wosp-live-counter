@@ -40,7 +40,12 @@ import { ref, onMounted } from 'vue';
 import io from 'socket.io-client';
 import QRCode from 'qrcode';
 
-const socket = io('http://192.168.1.193:4001');
+import VueCookies from 'vue-cookies';
+
+const ip = VueCookies.get('ip');
+console.log(ip)
+
+const socket = io('http://'+ip+':4001');
 
 const sum = ref(0);
 
