@@ -1,7 +1,18 @@
-# Vue 3 + Vite
+##  Licznik WOŚP 2024 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a money counter for "Wielka orkiestra świątecznej pomocy". IDK T.B.C.
 
-## Recommended IDE Setup
+# How to run the code
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+To run the code, you must have node.js installed. Then in the terminal in the project folder, you need to type
+To run the app you have to run the server:
+```
+node server.cjs
+```
+Then
+```
+npm install
+
+npm run host
+```
+A potem to nwm co spac mi sie chce
