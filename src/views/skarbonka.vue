@@ -40,7 +40,7 @@ import { ref, onMounted } from 'vue';
 import io from 'socket.io-client';
 import QRCode from 'qrcode';
 
-const socket = io('http://192.168.1.193:4001');
+const socket = io('http://192.168.1.191:4001');
 
 const sum = ref(0);
 

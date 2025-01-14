@@ -11,7 +11,7 @@ import { useRouter } from 'vue-router';
 import { io } from 'socket.io-client';
 import VueCookies from 'vue-cookies';
 
-const socket = io('http://192.168.1.193:4001');
+const socket = io('http://192.168.1.191:4001');
 const router = useRouter();
 const username = ref('');
 

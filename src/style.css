@@ -36,9 +36,18 @@
 
 
 .WOSPShadowMain {
-    -webkit-text-stroke-width: 13px;
-    -webkit-text-stroke-color: black;
-    text-shadow:
+    /* -webkit-text-stroke-width: 13px;
+    -webkit-text-stroke-color: black; */
+    /* text-shadow:
+    -10px -10px 0 #000,  
+     10px -10px 0 #000,
+     -10px 10px 0 #000,
+      10px 10px 0 #000,
+     0px -10px 0 #000,  
+     0px -10px 0 #000,
+     -10px 0px 0 #000,
+      10px 0px 0 #000; */
+    /* text-shadow:
     -10px -10px 0 #fff,  
      10px -10px 0 #fff,
      -10px 10px 0 #fff,
@@ -46,7 +55,28 @@
      0px -10px 0 #fff,  
      0px -10px 0 #fff,
      -10px 0px 0 #fff,
-      10px 0px 0 #fff;
+      10px 0px 0 #fff; */
+      text-shadow: 
+      0 20px 0 black,    /* Pierwsza ramka - dół */
+      0 -20px 0 black,   /* Pierwsza ramka - góra */
+      20px 0 0 black,    /* Pierwsza ramka - prawo */
+      -20px 0 0 black,   /* Pierwsza ramka - lewo */
+      20px 20px 0 black, /* Pierwsza ramka - dół-prawo */
+      -20px -20px 0 black, /* Pierwsza ramka - góra-lewo */
+      20px -20px 0 black, /* Pierwsza ramka - góra-prawo */
+      -20px 20px 0 black, /* Pierwsza ramka - dół-lewo */
+      0 30px 0 white,    /* Druga ramka - dół */
+      0 -30px 0 white,   /* Druga ramka - góra */
+      30px 0 0 white,    /* Druga ramka - prawo */
+      -30px 0 0 white,   /* Druga ramka - lewo */
+      30px 30px 0 white, /* Druga ramka - dół-prawo */
+      -30px -30px 0 white, /* Druga ramka - góra-lewo */
+      30px -30px 0 white, /* Druga ramka - góra-prawo */
+      -30px 30px 0 white; /* Druga ramka - dół-lewo */ 
+}
+
+body{
+    background-color: blue;
 }
 
 * {

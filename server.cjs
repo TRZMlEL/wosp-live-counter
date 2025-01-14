@@ -31,6 +31,7 @@ io.on('connection', (socket) => {
     });
 
     socket.on('transaction', (amount) => {
+        console.log('tranzakcja')
         sum += amount;
         io.emit('updateSum', sum);
         let date = new Date();
@@ -68,36 +69,36 @@ io.on('connection', (socket) => {
     })
 });
 
-async function scrape() {
-    const browser = await puppeteer.launch({ headless: 'new' });
-    const page = await browser.newPage();
-    await page.goto('https://eskarbonka.wosp.org.pl/muhusajape');
+// async function scrape() {
+//     const browser = await puppeteer.launch({ headless: 'new' });
+//     const page = await browser.newPage();
+//     await page.goto('https://eskarbonka.wosp.org.pl/muhusajape');
 
-    result = await page.evaluate(() => {
-        return document.querySelector('div.col-md-10.mx-auto span').innerText;
-    });
+//     result = await page.evaluate(() => {
+//         return document.querySelector('div.col-md-10.mx-auto span').innerText;
+//     });
 
-    result = result.replace('zł', '');
-    result = result.replace(' ', '');
-    result = parseInt(result);
-    console.log(result)
-    console.log(previousResult)
-    console.log("porównanie")
-    io.emit('pig', result);
+//     result = result.replace('zł', '');
+//     result = result.replace(' ', '');
+//     result = parseInt(result);
+//     console.log(result)
+//     console.log(previousResult)
+//     console.log("porównanie")
+//     io.emit('pig', result);
 
-    if (result > previousResult) {
-        const difference = result - previousResult;
-        sum += difference;
-        io.emit('updateSum', sum);
-        previousResult = result;
-    }
+//     if (result > previousResult) {
+//         const difference = result - previousResult;
+//         sum += difference;
+//         io.emit('updateSum', sum);
+//         previousResult = result;
+//     }
 
-    await browser.close();
-}
+//     await browser.close();
+// }
 
-// Wywołaj funkcję scrape co 10 minut
-setInterval(scrape, 5 * 60 * 1000);
+// // Wywołaj funkcję scrape co 10 minut
+// setInterval(scrape, 5 * 60 * 1000);
 
-scrape();
+// scrape();
 
 server.listen(4001, () => console.log('Listening on port 4001'));

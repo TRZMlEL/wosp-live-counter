@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
+  darkMode: 'media',
   content: [
     "./index.html",
     "./src/**/*.{vue,js,ts,jsx,tsx}",
@@ -7,7 +8,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'bgWOSP': "url('/img/tlo-wosp-2024-2.png')",
+        // 'bgWOSP': "url('/img/tlo-wosp-2024-2.png')",
       },
       dropShadow: {
         'WOSPshadow': ['', '-5px 0px 0px rgba(2, 3, 0)', '0px 5px 0px rgba(2, 3, 0)', '0px -5px 0px rgba(2, 3, 0)',
@@ -40,6 +41,7 @@ export default {
       fontFamily: {
         Scansky: ['Scansky', "sans-serif"],
         ScanskyItalic: ['Scansky Italic', "sans-serif"],
+        impact: ["Impact", "Haettenschweiler", "'Arial Narrow Bold'", "sans-serif"],
       },
       borderWidth: {
         '12': '12px',

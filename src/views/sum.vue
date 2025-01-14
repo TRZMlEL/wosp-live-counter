@@ -1,5 +1,5 @@
 <template>
-    <div class="font-Scansky w-screen h-screen bg-bgWOSP bg-cover flex flex-col overflow-hidden">
+    <div class="font-impact font-black w-screen h-screen bg-bgWOSP bg-cover flex flex-col overflow-hidden">
         <div class="WOSPShadow flex w-screen h-2/3 items-center justify-center text-white flex-col">
             <div class="flex flex-col">
                 <h4 class=" leading-none text-left  text-7xl">
@@ -9,10 +9,10 @@
                     <span class="text-2ZST2024"> 2</span>
                     <span class="text-1ZST2024">0</span>
                     <span class="text-2ZST2024">2</span>
-                    <span class="text-1ZST2024">4</span>
+                    <span class="text-1ZST2024">5</span>
                 </h4>
-                <h1 class=" leading-none text-center text-bigMain font-extrabold WOSPShadowMain" data-text="{{ totalSum }}zł" >{{ totalSum }}zł</h1>
-                <h3 class=" leading-none text-right tracking-tight text-9xl font-ScanskyItalic">
+                <h1 class=" leading-none text-center text-bigMain font-black WOSPShadowMain" data-text="{{ totalSum }}zł" >{{ totalSum }}zł</h1>
+                <h3 class=" italic leading-none text-right tracking-tight text-9xl">
                     <span class="text-FINAŁ1">F</span>
                     <span class="text-FINAŁ2">I</span>
                     <span class="text-FINAŁ3">N</span>
@@ -35,7 +35,7 @@ import { ref } from 'vue';
 import anime from 'animejs/lib/anime.es.js';
 import io from 'socket.io-client';
 
-const socket = io('http://192.168.1.193:4001');
+const socket = io('http://192.168.1.191:4001');
 const totalSum = ref(0); // Utwórz reaktywne dane dla sumy wszystkich wpłat
 const payments = ref([]); // Utwórz listę wpłat
 
