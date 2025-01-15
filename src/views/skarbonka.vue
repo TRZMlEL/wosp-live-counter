@@ -40,7 +40,7 @@ import { ref, onMounted } from 'vue';
 import io from 'socket.io-client';
 import QRCode from 'qrcode';
 
-const socket = io('http://192.168.1.191:4001');
+const socket = io(import.meta.env.VITE_LOCAL_IP+':4001');
 
 const sum = ref(0);
 
@@ -53,7 +53,7 @@ socket.emit('skarbonka');
 
 onMounted(async () => {
     const qrcodeElement = document.getElementById("qrcode");
-    const url = "https://eskarbonka.wosp.org.pl/muhusajape?lang=pl";
+    const url = import.meta.env.VITE_ESKARBONKA;
     try {
         const dataUrl = await QRCode.toDataURL(url);
         qrcodeElement.innerHTML = `<img src="${dataUrl}" width="400" height="400"/>`;

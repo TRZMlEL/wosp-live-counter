@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Scansky';
-    src: local('Scansky Condensed Black Italic'), local('Scansky-Condensed-Black-Italic'),
-        url('Scansky-CondensedBlackItalic.woff2') format('woff2'),
-        url('Scansky-CondensedBlackItalic.woff') format('woff'),
-        url('Scansky-CondensedBlackItalic.ttf') format('truetype');
-    font-weight: 900;
-    font-style: italic;
-  }

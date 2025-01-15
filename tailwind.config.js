@@ -7,8 +7,11 @@ export default {
   ],
   theme: {
     extend: {
+      gridTemplateRows: {
+        '5': 'grid-template-rows: 0.5fr repeat(4, 1fr);'
+      },
       backgroundImage: {
-        // 'bgWOSP': "url('/img/tlo-wosp-2024-2.png')",
+        'bgWOSP': "url('/img/tlo-wosp-2024-2.png')",
       },
       dropShadow: {
         'WOSPshadow': ['', '-5px 0px 0px rgba(2, 3, 0)', '0px 5px 0px rgba(2, 3, 0)', '0px -5px 0px rgba(2, 3, 0)',
@@ -42,6 +45,7 @@ export default {
         Scansky: ['Scansky', "sans-serif"],
         ScanskyItalic: ['Scansky Italic', "sans-serif"],
         impact: ["Impact", "Haettenschweiler", "'Arial Narrow Bold'", "sans-serif"],
+        impacto: ['Impacto', 'Impact', 'sans-serif'],
       },
       borderWidth: {
         '12': '12px',
