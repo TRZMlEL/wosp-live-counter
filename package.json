@@ -1,5 +1,5 @@
 {
-  "name": "pokedex",
+  "name": "wosp-live-counter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,12 +10,9 @@
     "host": "vite --host"
   },
   "dependencies": {
-    "@cypress/vite-dev-server": "^5.0.6",
-    "@cypress/vue": "^6.0.0",
     "animejs": "^3.2.2",
     "body-parser": "^1.20.2",
     "cookie-parser": "^1.4.6",
-    "cypress": "^13.5.1",
     "dotenv": "^16.4.7",
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
