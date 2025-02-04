@@ -69,5 +69,8 @@ Vue.js, Vite.js, TailwindCSS, Anime.js, <span>Socket.IO</span>, Node.js, Express
 | `localhost:5137/eskarbonka` | Page with a QR code for the eSkarbonka |
 | `localhost:5137/admin`      | Admin panel with logs and the ability to add or subtract from the main total |
 
+## License  
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
 ---
 This project is a tribute to **WOŚP** and all the amazing volunteers making a difference. ❤️
