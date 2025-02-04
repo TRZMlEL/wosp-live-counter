@@ -1,0 +1,33 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Możesz zmienić na nazwę swojej gałęzi
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build project
+        run: npm run build  # Zakłada, że używasz "npm run build"
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages  # Gałąź, na której będą przechowywane pliki na GitHub Pages
+          folder: dist  # Folder, który zawiera zbudowaną aplikację
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
