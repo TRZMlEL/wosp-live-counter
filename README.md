@@ -7,6 +7,7 @@ WOŚP Live Counter is a real-time donation tracker created to count money during
 - **32nd WOŚP Grand Finale in Ostrów**
 - **[33rd WOŚP Grand Finale at ZST](https://www.youtube.com/live/CoIn-BcCqNE)**
 - **[33rd WOŚP Grand Finale in Ostrów](https://www.youtube.com/live/5IHqyxZnr4Y)**
+- **[34rd WOŚP Grand Finale at ZST](https://www.youtube.com/live/jraFQ7ZzSmE)**
 
 ## Why I Created It
 I support the **Great Orchestra of Christmas Charity** because, as a child, I personally received help from this foundation. This project is my way of giving back and helping raise more funds for those in need.
